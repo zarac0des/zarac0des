@@ -1,7 +1,7 @@
 # Hey, I'm Zara. Welcome to my GitHub Profile!
 
 
-## Introduction
+## Introduction ☄️
 
 Hello there! I'm Zara, a passionate young programmer, AI researcher, and space enthusiast. I'm thrilled to have you visit my GitHub profile, where I merge my love for technology and space exploration with my programming skills. Let me give you a glimpse into my world.
 
