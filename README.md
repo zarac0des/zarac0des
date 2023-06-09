@@ -35,6 +35,7 @@ I love connecting with fellow programmers, space enthusiasts, and anyone who sha
 - 📧 Email: [Your Email]
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 🐦 Twitter: [@YourTwitterHandle]
+- 📷 Instagram: @zarac0des
 
 I'm always excited to collaborate on interesting projects or engage in discussions related to technology, AI, space, or cats!
 
