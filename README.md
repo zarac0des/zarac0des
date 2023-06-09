@@ -8,7 +8,7 @@ Hello there! I'm Zara, a passionate young programmer, AI researcher, and space e
 ## About Me 🛰
 
 - 🌱 I'm a young programmer who is constantly eager to learn and grow in the world of technology.
-- 🐈 I'm a big cat lover and enjoy spending time with these adorable creatures.
+- 🐈 I'm an avid cat lover and enjoy spending time with these adorable creatures.
 - 💻 I have expertise in five programming languages: Python, C++, Java, JavaScript, and HTML.
 - 🤖 As an AI researcher, I delve into the fascinating field of artificial intelligence and explore its potential applications.
 - 💾 Besides being a researcher, I'm also a software developer, creating innovative solutions, contributing to open-source projects, and coding websites and mobile apps.
